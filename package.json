@@ -1,0 +1,8 @@
+{
+  "name": "js-y9h1an",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "swiper": "^6.2.0"
+  }
+}
